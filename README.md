@@ -37,8 +37,8 @@ Example JSON response:
 - Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/GonzalezEzequiel-FS-1/SAD_Week_Tree_Hardcoded_Secrets.git
+cd SAD_Week_Tree_Hardcoded_Secrets
 ```
 
 - Install dependencies:
