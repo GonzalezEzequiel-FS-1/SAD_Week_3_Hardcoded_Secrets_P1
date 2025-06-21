@@ -69,7 +69,7 @@ In the upcoming steps, we'll explore:
 
 - Shared secrets file pushed to the repo (still insecure)
 - Secure secrets management using .env files and .gitignore (best practice)
-- 📎 This project is part of a multi-step assignment exploring secrets management and its real-world implications.
+- This project is part of a multi-step assignment exploring secrets management and its real-world implications.
 
 ---
 
